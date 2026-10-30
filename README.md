@@ -1,16 +1,32 @@
-## Hi there 👋
+# Ciao! 👋
 
-<!--
-**guarneri25335/guarneri25335** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sono uno studente di Informatica e questo è l'inizio
+del mio portfolio tecnico.
 
-Here are some ideas to get you started:
+## 👤 Qualcosa su di me
+sono anche un atleta oltre che uno studente
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ❤️ Le mie passioni
+- lo sport
+- le moto
+- la musica 
+
+## 💻 Tecnologia ed esperienze
+
+Ho già avuto occasione di utilizzare o conoscere:
+
+- visual studio code
+- github
+- linguaggio C
+
+## 🧠 Una cosa che potrei insegnare ai miei compagni
+- insegnare a giocare a calcio
+
+## 🔍 Cosa mi piacerebbe imparare
+-riparare macchine con componenti elettroniche
+
+## 🚀 Un progetto che mi piacerebbe realizzare
+-costruire un pc con componenti scelte da me
+
+## 🎯 Guardando al futuro
+vorrei entrare a far parte nel mondo dell'informatica
